@@ -1,0 +1,7 @@
+.container {
+  margin-top: 10px;
+}
+.col-sm-3 {
+  border: 1px solid black;
+  background-color: white;
+}
